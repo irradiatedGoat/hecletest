@@ -1,0 +1,15 @@
+body
+		totalContent
+				head
+					title div
+				main
+					About maybe fade/slide
+
+				inline
+					service div
+					to contact form div
+
+				material list div
+
+				footer
+					social network div
